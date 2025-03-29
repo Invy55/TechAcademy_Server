@@ -9,7 +9,7 @@ __Trovi le versioni generate da me nella sezione releases di questo github__: [C
 
 _Se sei un utente esperto puoi clonare la repository e generare il pack sul tuo computer usando lo script python. Non sono fornite istruzioni aggiuntive, se non te la senti utilizza le versioni già generate._
 
-## Istruzioni per l'installazione del server Neoforge:
+## 📥 Istruzioni per l'installazione del server Neoforge:
 
 1. Assicurati di avere Java installato e configurato
   
